@@ -108,7 +108,7 @@ Toda la documentacion por parte del backend, los endpoints y las respuestas de s
 </br>
 
 ### 🐛🐞 QA Tester
-| <img src="https://media.licdn.com/dms/image/C4D03AQGt-hXvXIm54g/profile-displayphoto-shrink_800_800/0/1651542380358?e=1700092800&v=beta&t=BcFWAApYegHMFTHwxxDBZyCUoJBwOi3E323hFS1FS1I" height=60>|
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQEZ2kbM0mNixA/profile-displayphoto-shrink_100_100/B4DZRinSRMHcAY-/0/1736821253889?e=1743638400&v=beta&t=1Do47g7ll-Osi-6-sDhqr_pwYGXQ_V-2X_e_qPa40lI" height=60>|
 |:-:|
 | **Pablo Lopez Chiapero** |
 |<a href="https://github.com/Esplenio79"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
